@@ -1,0 +1,7 @@
+main: net.azisaba.voterOnly.VoterOnly
+name: VoterOnly
+version: 1.0.0
+depend:
+  - Votifier
+softdepend:
+  - Vault
